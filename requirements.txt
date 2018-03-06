@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+bs4
+win10toast
+itertools
+urllib
+json
+enum
+time
